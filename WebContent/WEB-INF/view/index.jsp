@@ -56,10 +56,10 @@
         <img src="${pageContext.request.contextPath}/image/slide/slide1.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="..." class="d-block w-100" alt="...">
+        <img src="${pageContext.request.contextPath}/image/slide/slide1.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="..." class="d-block w-100" alt="...">
+        <img src="${pageContext.request.contextPath}/image/slide/slide1.jpg" class="d-block w-100" alt="...">
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
