@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+body {
+	font-family: 'Noto Sans KR', sans-serif;
+}
+@media (min-width:1200px){.container,.container-lg,.container-md,.container-sm,.container-xl{max-width:1024px}}
+@media (max-width:992px){.container,.container-lg,.container-md,.container-sm{padding-left: 0; padding-right: 0;}}
+@media (max-width:768px){.nav-item{padding-right: 5px;} .nav-item>a{text-align:center}}
